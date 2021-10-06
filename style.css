@@ -22,16 +22,16 @@ body {
 input#email {
   margin-left: 23px;
   padding: 5px;
-  width: 50%;
+  width: 70%;
 }
 input#pass {
   padding: 5px;
-  width: 50%;
+  width: 70%;
 }
 input#number {
   margin-left: 9px;
   padding: 5px;
-  width: 50%;
+  width: 70%;
 }
 .submit {
   margin-left: 80px;
