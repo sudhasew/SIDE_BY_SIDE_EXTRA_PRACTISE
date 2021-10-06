@@ -35,7 +35,7 @@ input#number {
 }
 .submit {
   margin-left: 80px;
-  padding: 10px;
+  padding: 7px;
   width: 20%;
   border: none;
   background-color: royalblue;
@@ -48,12 +48,14 @@ input#number {
     display: flex;
     justify-content: right;
     position: relative;
+    border: 2px solid black;
   }
   .about-container.side-by-side-item {
     position: absolute;
     justify-content: space-evenly;
     align-items: center;
     padding: auto;
+    border: 2px solid black;
   }
   .side-by-side-item {
     width: 50%;
