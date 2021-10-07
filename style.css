@@ -47,7 +47,6 @@ input#number {
   .about-parent-container {
     display: flex;
     justify-content: right;
-    position: relative;
     border: 2px solid black;
   }
   .about-container.side-by-side-item {
